@@ -24,6 +24,10 @@ Circuito usando **ESP8266 (NodeMCU)** para automatizar um portão social residen
 
 ## Lista de materiais 🛒
 
+
+<img width="647" height="471" alt="imagem intens_portão" src="https://github.com/user-attachments/assets/3e517b4f-2940-4e66-b2f7-2817d8849146" />
+
+
 | # | Componente | Qtd |
 |---|-----------|-----|
 | 1 | NodeMCU ESP8266 | 1x |
@@ -345,6 +349,16 @@ Quando o relé fechar (NO → COM), simula um toque no botão → o portão abre
 - Você pode cadastrar quantas tags quiser adicionando linhas em `authorizedUIDs`.
 
 ---
+
+## Resultado❗
+
+
+
+https://github.com/user-attachments/assets/910cd696-a44d-4dba-87e2-24fd8e2bdc5a
+
+
+https://github.com/user-attachments/assets/d89ea576-6a1f-497a-8a80-198087d4dd68
+
 
 ### Referências 📚
 
