@@ -5,8 +5,8 @@
 #include <MFRC522.h>
 
 /* ========= WIFI ========= */
-const char* ssid = "JACQUE";
-const char* password = "1108257370";
+const char* ssid = "Sua_Rede-wifi";
+const char* password = "Sua_Senha";
 
 /* ========= SERVER ========= */
 ESP8266WebServer server(80);
